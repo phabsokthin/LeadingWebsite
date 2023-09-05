@@ -53,7 +53,7 @@ export const TitleBody = [
         titleBar: "Welcome to the online centers",
         title1: "Start learning from your experience",
         title2: "Express your skills with us now",
-        title3: "Do your favorite course"
+        title3: "Do your favorite courses"
     }
 
 ]
