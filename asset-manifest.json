@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/LeadingWebsite/static/css/main.073c9b0a.css",
+    "main.js": "/LeadingWebsite/static/js/main.bc5634a1.js",
+    "static/js/787.54ddcda2.chunk.js": "/LeadingWebsite/static/js/787.54ddcda2.chunk.js",
+    "static/media/BlackMan.jpg": "/LeadingWebsite/static/media/BlackMan.0384e03def2e3669212a.jpg",
+    "static/media/Bloging1.jpg": "/LeadingWebsite/static/media/Bloging1.10e6ada536bff607cfc9.jpg",
+    "static/media/LandScapeNature.jpg": "/LeadingWebsite/static/media/LandScapeNature.9b6b5bd14eb27c339dcf.jpg",
+    "static/media/Landscape1.jpg": "/LeadingWebsite/static/media/Landscape1.4e7bbfc013a6fee51709.jpg",
+    "static/media/Discustion.jpg": "/LeadingWebsite/static/media/Discustion.6d4012302a51f0b9e0a4.jpg",
+    "static/media/SuccessMeeting.jpg": "/LeadingWebsite/static/media/SuccessMeeting.ac8a4e5c22184911cb25.jpg",
+    "static/media/Blog.jpg": "/LeadingWebsite/static/media/Blog.0b1c3fc60338fbffdc9f.jpg",
+    "static/media/Landscape3.jpg": "/LeadingWebsite/static/media/Landscape3.076a84276c62ea3351b3.jpg",
+    "static/media/Meeting.jpg": "/LeadingWebsite/static/media/Meeting.95181aa7ab279dcc236a.jpg",
+    "static/media/Teach.jpg": "/LeadingWebsite/static/media/Teach.f57655b24a7f47988db1.jpg",
+    "static/media/BestLandScape.jpg": "/LeadingWebsite/static/media/BestLandScape.b7477c7db326e5d340f9.jpg",
+    "static/media/BusinessMan.jpg": "/LeadingWebsite/static/media/BusinessMan.939ea7c21e0c0859a55e.jpg",
+    "static/media/Landscape4.jpg": "/LeadingWebsite/static/media/Landscape4.47322af1280ef929ed01.jpg",
+    "static/media/Student.png": "/LeadingWebsite/static/media/Student.b3706120e5af599aab46.png",
+    "static/media/FamilyBlog.jpg": "/LeadingWebsite/static/media/FamilyBlog.d66f0529f02f5d78c479.jpg",
+    "static/media/BlogTitle.jpg": "/LeadingWebsite/static/media/BlogTitle.eb6abd8adbbb6879d0ce.jpg",
+    "static/media/Nurse.jpg": "/LeadingWebsite/static/media/Nurse.490500e10d52224ddffc.jpg",
+    "static/media/Employee.jpg": "/LeadingWebsite/static/media/Employee.23ca17ae7db3339fa8e4.jpg",
+    "static/media/Man.jpg": "/LeadingWebsite/static/media/Man.b4f874cf20c1b619981c.jpg",
+    "static/media/GirlsStaff.png": "/LeadingWebsite/static/media/GirlsStaff.286bb48b72ed169c3bbd.png",
+    "static/media/WhiteEmployee.jpg": "/LeadingWebsite/static/media/WhiteEmployee.450fb37741d9e46463b4.jpg",
+    "static/media/Staff.png": "/LeadingWebsite/static/media/Staff.b7612bb0abc5501e5384.png",
+    "static/media/Teacher.png": "/LeadingWebsite/static/media/Teacher.03eae675023264121b98.png",
+    "static/media/Stgraduate.png": "/LeadingWebsite/static/media/Stgraduate.eb8ca8c4508c3d88c093.png",
+    "static/media/BlackTeacher.png": "/LeadingWebsite/static/media/BlackTeacher.821d86d09b7736ca3f0a.png",
+    "static/media/school.png": "/LeadingWebsite/static/media/school.8ce90072eb1a5af789f3.png",
+    "static/media/logo.svg": "/LeadingWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LeadingWebsite/index.html",
+    "main.073c9b0a.css.map": "/LeadingWebsite/static/css/main.073c9b0a.css.map",
+    "main.bc5634a1.js.map": "/LeadingWebsite/static/js/main.bc5634a1.js.map",
+    "787.54ddcda2.chunk.js.map": "/LeadingWebsite/static/js/787.54ddcda2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bc5634a1.js"
+  ]
+}
